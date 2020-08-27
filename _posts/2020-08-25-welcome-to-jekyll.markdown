@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "I can't turn the blog feature off"
 date:   2020-08-25 22:51:17 -0700
 categories: jekyll update
 ---
