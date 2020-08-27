@@ -16,7 +16,7 @@ permalink: /todo/
 |-------|-------|-------|-------|
 | Intro | x | x | x |
 | Bias | x | x | - |
-| Rules v ML | x | x | - |
+| Rules v ML | x | - | - |
 | Skills | x | - | - |
 | Music | x | - | - |
 | Distributed | - | - | - |
@@ -38,5 +38,5 @@ permalink: /todo/
   
 ### Open Courses Site
 - [x] create local build for site
-- [ ] publish to gh-pages
+- [x] publish to gh-pages
 - [ ] locate directory generator
