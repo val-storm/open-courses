@@ -13,6 +13,8 @@ I came across [this article](https://medium.com/@valdolyon/google-speech-to-text
 
 ### Installing Jekyll
 {: #jekyyl}
+You can find all the source files for this site at its [github repo](https://github.com/val-storm/open-courses)
+
 I installed jekyll so I can view and develop the 'site' locally and then publish when necessay using git. I followed information on these pages to build this site, note that the macOS instructions require homebrew be installed:
 
 - Installing jekyll [offical jekyll docs](https://jekyllrb.com/docs/installation/macos/)
