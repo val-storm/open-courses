@@ -1,0 +1,36 @@
+Artificial Intelligence and Machine Learning in the Arts
+Open College
+Module One
+Eduplay
+
+In the last decade the field of Artificial Intelligence has experienced substantial growth. Due in part to the proliferation and advancement of parallel processing hardware such as GPUs and perhaps more importantly the accumulation of vast amounts of data. You may be asking, "what is data?". Most machine learning enthusiasts and data scientist would respond, "Eveything is data". Data can be a log of your gps coordinates sent in intervals to google, or it can be the temperature in Portland over time. The main thing to data is that it is stored somewhere (like a "database"), and that it either reflects the same variable over time (your gps or portland temperatures) or is comprehensive, like the temperatures across the globe or everyone's gps location over time... 
+
+For some context on the subject of data, there exist hard drives that are 2.5" that store 16TB of data. In uncrompressed form, a letter or character takes up one byte. One TB would hold one trillion letters, or something like over 1.7 million copies of this book (infinite jest), which if stacked on top of eachother would just about extend beyond earths atmosphere into space, and this hard drive, can hold that 16 times over, and every single "data point" is accesible almost immediately. And that's just one drive, in one server, in one rack, in one aisle, of one data center... 
+
+ Through roll backs in restrictions on what tech companies are allowed to collect, the adoption of various applications and technologies by the general public, and ubiquitous digitization of records from schools to governments, large amounts of data precipitate in the cloud even before anyone knows what exactly to do with it.
+
+ Enter artificial intelligence...
+
+ What do you picture when you hear the phrase artificial intelligence? Our imaginations might be influenced by science fiction movies or books so that we picture this, or this. And while in some cases these might rely on AI technologies, it is far more common that they are a chat bot with some mezmerizing animatronics.
+
+ The dictionary defines artificial intelligence as the theory and development of computer systems able to perform tasks that normally require human intelligence such as visual perception, speech recognition, decision making, and translation between languages. 
+
+In another video we will scrutinize this itrepid definition, but for now let us focus on a subset of Artificial Intelligence aptly refered to as Machine Learning
+
+ Machine learning is generally defined as computer programs that can perform tasks without being explicitly programmed. 
+
+And this is the major difference. Typically, a computer program is a set of explicit rules, like: look at every entry in a list of names and show me the items that match this one. Here every step and every outcome is clearly defined. The program iteratively looks over the list, and tests each value against the search term.
+  
+ Alternatively machine learning leverages large data sets looking for patterns. The more comprehensive the dataset, the more comprehensive the eventual solution. Where as rule based, or imperative programming, follows a set of clearly defined directions, machine learning allows the rules to be deduced by analiyzig large amounts  of data... Let's look at facial recognition. Thre exists a large stack of photographs, which are to a computer just a long list of colors, now imagine we went through every photo and made a box around every face, thereby labeling an area inside the photograph as a face. Now, when we feed these labeled images into a machine learning algorithm like one called a neural network, machine learning determines what a face is by distilling these labeled areas down to some essence that they all have in common, or slightly more technically, identify features that generally are associated with the regions labelled as a face. 
+
+This process is called training and the result is called a model.
+
+A model can now  take input from outside the training set, and infer something about it.
+
+ Perhaps you are wondering, if I trained a model on only images of my face, would it be able to recognize a face different than mine? The answer is maybe, but probably not or at least not well. This issue is referred to as a model's bias and is a big issue in machine learning and we'll look at that in depth in another video.
+  
+ Remember to arrive at a comprehensive solution, one would have to start with a comprehensive data set. 
+
+Now in this example the data came from digital pictures, which come from a type of sensor that stores information about visible light. Many people carry around one of these sensors in a device like a smart phone which has many more sensors like a microphone to record sound, a gyroscope, gps modules, antenae, various radio frequency sensors, touch screens, and coupled with other devices can read biometric information, aslo we use these devices to make purchases, socialize, useing various apps and extensions of these technologies or perhaps embedding this technologies in other locations so much of our actions could potentially be generating massive amounts of data...
+
+A quick look at any Terms of Service agreement from one of these apps or devices leads you to phrases like "usage statistics" and "user data" and one wonders, what exactly is filling up all those data centers, and what patterns exist in there, perhaps unfound, and more importantly, what patterns have they found? And what does any of this haave anything to do with art?
